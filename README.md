@@ -1,6 +1,6 @@
 # Guibao's Project
 
-Updating readme file
+Updating readme file in the github account.
 
 Authors
 @guibao.aldriane@hnu.edu.ph
