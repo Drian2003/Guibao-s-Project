@@ -8,3 +8,7 @@ Updating readme file in the github account.
 ## Sample Code :
 
 print( 'Hello World' );
+
+## How to install
+
+
