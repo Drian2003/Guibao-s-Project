@@ -9,6 +9,5 @@ Updating readme file in the github account.
 
 print( 'Hello World' );
 
-## How to install
-
+## Added installation instructions
 
