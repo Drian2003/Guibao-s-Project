@@ -9,5 +9,7 @@ Updating readme file in the github account.
 
 print( 'Hello World' );
 
-## Added installation instructions
+## How to Install
+
+-Step 1: Download the zip file or use git clone
 
