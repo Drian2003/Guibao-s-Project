@@ -2,9 +2,9 @@
 
 Updating readme file in the github account.
 
-Authors
+## Authors
 @guibao.aldriane@hnu.edu.ph
 
-Sample Code :
+## Sample Code :
 
 print( 'Hello World' );
